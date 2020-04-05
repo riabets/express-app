@@ -1,4 +1,15 @@
-.container {
+.home-page {
     width: 100%;
     display: flex;
+    background-color: #f7f8fc;
+    img {
+        display: flex;
+        flex-wrap: wrap;
+        max-height: 100%;
+        box-sizing: border-box;
+        align-items: center;
+        justify-content: center;
+        object-fit: cover;
+        width: 100%;
+    }
 }

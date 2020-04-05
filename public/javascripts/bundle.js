@@ -20986,9 +20986,8 @@ const app = new Vue({
     el: '#app'
 });
 },{"./components/HomePage.vue":10,"vue/dist/vue.js":4}],10:[function(require,module,exports){
-var __vueify_style_dispose__ = require("vueify/lib/insert-css").insert("/* line 1, stdin */\n.container {\n  width: 100%;\n  display: flex;\n  background-color: lightpink; }")
+var __vueify_style_dispose__ = require("vueify/lib/insert-css").insert("/* line 1, stdin */\n.home-page {\n  width: 100%;\n  display: flex;\n  background-color: #f7f8fc; }\n  /* line 5, stdin */\n  .home-page img {\n    display: flex;\n    flex-wrap: wrap;\n    max-height: 100%;\n    box-sizing: border-box;\n    align-items: center;\n    justify-content: center;\n    object-fit: cover;\n    width: 100%; }")
 ;(function(){
-//
 //
 //
 //
@@ -20998,9 +20997,7 @@ var __vueify_style_dispose__ = require("vueify/lib/insert-css").insert("/* line 
 
 module.exports = {
     data () {
-        return {
-            who: "World"
-        }
+        return {}
     },
 }
 
@@ -21008,8 +21005,8 @@ module.exports = {
 if (module.exports.__esModule) module.exports = module.exports.default
 var __vue__options__ = (typeof module.exports === "function"? module.exports.options: module.exports)
 if (__vue__options__.functional) {console.error("[vueify] functional components are not supported and should be defined in plain js files using render functions.")}
-__vue__options__.render = function render () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"container"},[_vm._v("\n    Vue homepage\n    "),_c('span',[_vm._v(_vm._s(_vm.who))])])}
-__vue__options__.staticRenderFns = []
+__vue__options__.render = function render () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
+__vue__options__.staticRenderFns = [function render () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"home-page"},[_c('img',{attrs:{"src":"../../images/img.jpg","alt":""}})])}]
 if (module.hot) {(function () {  var hotAPI = require("vue-hot-reload-api")
   hotAPI.install(require("vue"), true)
   if (!hotAPI.compatible) return

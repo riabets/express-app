@@ -1,6 +1,6 @@
 <template>
-    <div class="container">
-        Vue homepage
+    <div class="home-page">
+        <img src="../../images/img.jpg" alt="">
     </div>
 </template>
 
