@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45900bb6-71c8-4d05-8013-46a8433b335d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/components/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/components/HomePage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.jade" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
-    </list>
+    <list default="true" id="45900bb6-71c8-4d05-8013-46a8433b335d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a7VFdOz4CM85yMRy8nDnL1EnDp" />
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586086516566</updated>
-      <workItem from="1586086517752" duration="8650000" />
+      <workItem from="1586086517752" duration="9388000" />
     </task>
     <servers />
   </component>
