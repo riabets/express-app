@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45900bb6-71c8-4d05-8013-46a8433b335d" name="Default Changelist" comment="" />
+    <list default="true" id="45900bb6-71c8-4d05-8013-46a8433b335d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
         <option value="JavaScript File" />
         <option value="Vue Single File Component" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -28,6 +32,7 @@
   <component name="ProjectId" id="1a7VFdOz4CM85yMRy8nDnL1EnDp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Haymarket/janssen_xarelto_pj" />
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586086516566</updated>
-      <workItem from="1586086517752" duration="6376000" />
+      <workItem from="1586086517752" duration="7002000" />
     </task>
     <servers />
   </component>
